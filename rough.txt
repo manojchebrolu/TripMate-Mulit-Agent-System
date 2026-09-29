@@ -1,0 +1,1 @@
+postgresql://manojchebrolu:0iOU9NenW08FmqYSdhhFkIC1aW6RNz04@dpg-dasbc2vpn0mc73fm5h7g-a.ohio-postgres.render.com/tripmemory_zsud
